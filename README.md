@@ -1,5 +1,5 @@
 <h2 align="left">Hello there, I'm João Paulo - aka J.P 👋</h2>
-<h1 align="left">A beginner on the Development career, seeking to learn a new thing everyday</h1>
+<h2 align="left">A beginner on the Development career, seeking to learn a new thing everyday</h2>
 
 - 🔭 I’m currently working on **develop my first BIG project**
 
