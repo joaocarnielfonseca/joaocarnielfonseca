@@ -1,17 +1,16 @@
+<h2 align="center">Welcome, my name is João Paulo Carniel Fonseca</h2>
+<h4 align="center">I'm just a beginner on the Development career, seeking to learn a new thing everyday.</h4>
 
-<div>
-  <a href="https://github.com/joaocarnielfonseca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocarnielfonseca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarnielfonseca&layout=compact&langs_count=4&theme=gotham"/>
-</div>
-<h4 align="left">Socials:</h4>
+- You can contact me at **carnielfonseca@gmail.com**
+
+<h3 align="left">Socials:</h3>
 <p align="left">
   <a href="https://twitter.com/only__jao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="only__jao" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpcarniel" height="30" width="40" /></a>
   <a href="https://instagram.com/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpcarniel" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -25,3 +24,10 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
+
+<div>
+  <a href="https://github.com/joaocarnielfonseca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocarnielfonseca&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarnielfonseca&layout=compact&langs_count=4&theme=gotham"/>
+</div>
+
