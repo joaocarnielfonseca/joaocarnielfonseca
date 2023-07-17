@@ -1,7 +1,7 @@
-<h2 align="center">Welcome to my GitHub profile!</h2>
-<h4 align="center">I'm just a beginner on the Development career, seeking to learn a new thing everyday.</h4>
+<h2 align="left">Welcome to my GitHub profile!</h2>
+<h4 align="left">I'm just a beginner on the Development career, seeking to learn a new thing everyday.</h4>
 
-<h4 align="center">- You can contact me at **carnielfonseca@gmail.com** </h4>
+- You can contact me at **carnielfonseca@gmail.com**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
