@@ -1,4 +1,9 @@
 <h2 align="left">Hello there, I'm João Paulo - aka jpcarniel 👋</h2>
+<p align="left">
+  <a href="https://twitter.com/only__jao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="only__jao" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpcarniel" height="30" width="40" /></a>
+  <a href="https://instagram.com/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpcarniel" height="30" width="40" /></a>
+</p>
 <h2 align="left">A beginner on the Development career, seeking to learn a new thing everyday</h2>
 
 - 🔭 I’m currently working on **develop my first BIG project**
@@ -10,15 +15,6 @@
 - 📫 How to reach me **carnielfonseca@gmail.com**
 
 - ⚡ Fun fact: **I love to play guitar (even though I suck at it)**
-
-
-
-<h3 align="left">Socials:</h3>
-<p align="left">
-  <a href="https://twitter.com/only__jao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="only__jao" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpcarniel" height="30" width="40" /></a>
-  <a href="https://instagram.com/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpcarniel" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
