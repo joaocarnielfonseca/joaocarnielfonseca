@@ -1,7 +1,17 @@
-<h2 align="left">Welcome to my GitHub profile!</h2>
-<h4 align="left">I'm just a beginner on the Development career, seeking to learn a new thing everyday.</h4>
+<h1 align="left">Hello there, I'm João Paulo - aka J.P 👋</h1>
+<h3 align="left">A beginner on the Development career, seeking to learn a new thing everyday</h3>
 
-- You can contact me at **carnielfonseca@gmail.com**
+- 🔭 I’m currently working on **develop my first BIG project**
+
+- 🌱 I’m currently learning **Angular CLI and the whole MEAN stack**
+
+- 👨‍💻 2023 Goals: **Get my first Tech job and collaborate with more Open Source projects**
+
+- 📫 How to reach me **carnielfonseca@gmail.com**
+
+- ⚡ Fun fact: **I love to play guitar (even thought I suck at it)**
+
+
 
 <h3 align="left">Socials:</h3>
 <p align="left">
