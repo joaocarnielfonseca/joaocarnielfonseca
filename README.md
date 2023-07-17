@@ -1,4 +1,4 @@
-<h2 align="left">Hello there, I'm João Paulo - aka J.P 👋</h2>
+<h2 align="left">Hello there, I'm João Paulo - aka jpcarniel 👋</h2>
 <h2 align="left">A beginner on the Development career, seeking to learn a new thing everyday</h2>
 
 - 🔭 I’m currently working on **develop my first BIG project**
@@ -37,7 +37,8 @@
 
 <div>
   <a href="https://github.com/joaocarnielfonseca">
-  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api/top-langs/?username=joaocarnielfonseca&layout=compact&langs_count=4&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api?username=joaocarnielfonseca&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api/top-langs/?username=jpcarniel&layout=compact&langs_count=4&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api?username=jpcarniel&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
+
 
