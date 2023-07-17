@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **carnielfonseca@gmail.com**
 
-- ⚡ Fun fact: **I love to play guitar (even thought I suck at it)**
+- ⚡ Fun fact: **I love to play guitar (even though I suck at it)**
 
 
 
