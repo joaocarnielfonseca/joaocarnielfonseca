@@ -31,10 +31,3 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<div>
-  <a href="https://github.com/joaocarnielfonseca">
-  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api/top-langs/?username=jpcarniel&layout=compact&langs_count=3&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api?username=jpcarniel&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
-
-
