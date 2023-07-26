@@ -33,7 +33,7 @@
 
 <div>
   <a href="https://github.com/joaocarnielfonseca">
-  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api/top-langs/?username=jpcarniel&layout=compact&langs_count=4&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api/top-langs/?username=jpcarniel&layout=compact&langs_count=3&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats-lake-beta.vercel.app/api?username=jpcarniel&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
