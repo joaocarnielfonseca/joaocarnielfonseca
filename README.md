@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpcarniel" height="30" width="40" /></a>
   <a href="https://instagram.com/jpcarniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpcarniel" height="30" width="40" /></a>
 </p>
-<h2 align="left">A beginner on the Development career, seeking to learn a new thing everyday</h2>
+<h2 align="left">Full Stack Developer, seeking to learn a new thing everyday</h2>
 
 - 🔭 I’m currently working on **develop my first BIG project**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 2023 Goals: **Get my first Tech job and collaborate with more Open Source projects**
 
-- 📫 How to reach me **carnielfonseca@gmail.com**
+- 📫 How to reach me: **carnielfonseca@gmail.com**
 
 - ⚡ Fun fact: **I love to play guitar (even though I suck at it)**
 
